@@ -53,8 +53,3 @@
 
 > 处理不确定性不是靠增加复杂度，而是靠找到唯一确定的东西。
 
-## 关联文档
-
-- [筛选博弈：管理者先设坎，员工自动对号入座](recruitment/screening-game.md)
-- [薪酬方案的综合洞察](remuneration/index.md)
-- [销售岗位定价洞察](remuneration/sales.md)
