@@ -1,16 +1,6 @@
 # quanttide-insight-of-human-resources
 
-> 不是薪酬方案，是一个用价格信号表达的组织设计。
 
-## 概览
-
-三篇文档构成一套完整的组织设计框架：
-
-| 文档 | 层次 | 核心问题 |
-|---|---|---|
-| [薪酬方案的综合洞察](remuneration/index.md) | 定价即组织设计 | 分钱还是在定义关系？ |
-| [销售岗位定价洞察](remuneration/sales.md) | 设计服务于现实 | 招不到的人怎么用制度弥补？ |
-| [筛选博弈分析](recruitment/screening-game.md) | 决策的数学基础 | 判断力有没有公式？ |
 
 ## 核心脉络
 
