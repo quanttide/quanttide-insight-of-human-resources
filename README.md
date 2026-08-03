@@ -9,4 +9,3 @@
 - [index.md](index.md) — 三篇 insight 的核心脉络整合
 - [remuneration/](remuneration/) — 薪酬方案洞察（定价即组织设计）
 - [recruitment/](recruitment/) — 招聘筛选博弈分析（决策的数学基础）
-- [training/](training/) — 培训模块洞察（培训即组织设计）
